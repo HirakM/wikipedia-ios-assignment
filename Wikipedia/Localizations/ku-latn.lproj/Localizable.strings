@@ -1,0 +1,201 @@
+// Messages for Kurdish (Latin script) (kurdî (latînî))
+// Exported from translatewiki.net
+// Author: Balyozxane
+// Author: Bikarhêner
+// Author: Cûndûllah el-Kurdî
+// Author: George Animal
+// Author: Ghybu
+// Author: Mirzali
+// Author: Nemo bis
+
+"about-libraries-license" = "Destûr";
+"about-translators" = "Wergêr";
+"about-wikipedia" = "Wîkîpediya";
+"account-creation-saving" = "Tê tomarkirin...";
+"action-cancel" = "Betal bike";
+"action-redo" = "Dîsa bike";
+"action-save" = "Tomar bike";
+"action-saved" = "Hat tomarkirin";
+"article-delete" = "Jê bibe";
+"article-languages-filter-placeholder" = "Zimanekî bibîne";
+"article-languages-label" = "Ziman hilbijêre";
+"article-languages-others" = "Zimanên din";
+"article-languages-yours" = "Zimanên te";
+"button-next" = "Pêşve";
+"button-ok" = "Baş e";
+"button-publish" = "Biweșîne";
+"cancel" = "Betal bike";
+"clear-title-accessibility-label" = "Paqij bike";
+"close-button-accessibility-label" = "Bigre";
+"edit-link-title" = "Girêdanê biguhêre";
+"edit-summary-choice-fixed-grammar" = "Rêziman sererast kir";
+"edit-summary-choice-fixed-typos" = "Nivîsa xelet sererast kir";
+"edit-summary-choice-linked-words" = "Girêdanan lê zêde kir";
+"editor-exit-confirmation-body" = "Ma hûn pê piştrast in ku hûn dixwazin ji moda guhartinê bêyî weşandinê derkevin?";
+"empty-insert-media-title" = "Dosyeyekê bibijêre ji Wîkîmedya Commonsê";
+"empty-no-search-results-message" = "Ti encam nehatin dîtin";
+"explore-potd-heading" = "Wêneyê rojê";
+"explore-random-article-heading" = "Gotara ketober";
+"field-password-title" = "Şîfre";
+"history-clear-delete-all" = "Erê, hemûyan jê bibe";
+"history-title" = "Dîrok";
+"icon-shortcut-random-title" = "Gotara ketober";
+"image-gallery-unknown-owner" = "Nivîskar nenas e";
+"in-the-news-title" = "Di nûçeyan de";
+"languages-title" = "Zimên biguhêre";
+"main-menu-about" = "Di derbarê sepanê de";
+"main-menu-account-login" = "Têkeve";
+"main-menu-account-logout" = "Derkeve";
+"main-menu-account-title-logged-in" = "Têketî wek $1";
+"main-menu-nearby" = "Yên nêzîk";
+"main-menu-privacy-policy" = "Siyaseta taybetîtiyê";
+"main-menu-terms-of-use" = "Mercên Bikaranînê";
+"main-menu-title" = "Bêhtir";
+"navbar-title-mode-edit-wikitext-preview" = "Pêşdîtin";
+// Fuzzy
+"nearby-distance-label-feet" = "$1 fît";
+"nearby-distance-label-km" = "$1 km";
+// Fuzzy
+"nearby-distance-label-meters" = "$ m";
+"nearby-distance-label-miles" = "$1 mîl";
+"notifications-center-swipe-more" = "Bêhtir";
+"page-protected-can-not-edit" = "Mafê te bo guherandina rûpelê tune ye";
+"page-protected-can-not-edit-title" = "Ev rûpel hatiye parastin";
+"reference-title" = "Çavkanî $1";
+"relative-date-minutes-ago" = "{{PLURAL:$1|0=hema niha|berî $1 deqe|berî $1 deqeyan}}";
+"saved-title" = "Hate tomarkirin";
+"search-field-placeholder-text" = "Di nav Wîkîpediyayê de lê bigere";
+"search-recent-clear-delete-all" = "Hemûyan Jê Bibe";
+"search-recent-title" = "Lêgerînên dawî";
+"search-title" = "Lêgerîn";
+"settings-clear-cache-cancel" = "Betal bike";
+"settings-my-languages" = "Zimanên min";
+"settings-title" = "Eyar";
+"share-menu-item" = "Parve bike...";
+"share-on-twitter-sign-off" = "bi rêya Wîkîpediyayê";
+"share-social-format" = "\"$1\" li Wîkîpediya:$2";
+"share-social-mention-format" = "\"$1\" ji Wîkîpediyayê: $2";
+"table-of-contents-close-accessibility-hint" = "Bigre";
+"table-of-contents-heading" = "Naverok";
+"welcome-languages-add-button" = "Zimanekî din lê zêde bike";
+"wikitext-preview-save-changes-title" = "Guherandinan tomar bike";
+"wikitext-upload-save" = "Tê weşandin...";
+"wikitext-upload-save-terms-name" = "Mercên Bikaranînê";
+
+
+/* Article topic label */
+"wikimedia-articletopics-topic-architecture" = "Mîmarî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-art" = "Huner";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-comics-and-anime" = "Xêzeroman û anîme";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-entertainment" = "Entertainment";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-fashion" = "Moda";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-literature" = "Edebiyat";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-music" = "Muzîk";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-performing-arts" = "Performing arts";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-sports" = "Spor";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-tv-and-film" = "Fîlm û rêzefîlm";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-video-games" = "Lîstikên vîdeoyê";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biography" = "Biyografî (hemû)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-women" = "Biyografî (jin)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-business-and-economics" = "Bazirganî û ekonomî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-education" = "Tehsîl";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-food-and-drink" = "Xwarin û vexwarin";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-history" = "Tarîx";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-military-and-warfare" = "Eskeriye û şer";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-philosophy-and-religion" = "Felsefe û dîn";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-politics-and-government" = "Siyaset û hikûmet";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-society" = "Civak";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-transportation" = "Veguhastin";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biology" = "Biyolojî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-chemistry" = "Kîmya";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-computers-and-internet" = "Komputer û înternet";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-earth-and-environment" = "Cîhan û jîngeh";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-engineering" = "Mihendisî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-general-science" = "Zanista giştî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-mathematics" = "Matematîk";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-medicine-and-health" = "Tib û sihet";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-physics" = "Fizîk";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-technology" = "Teknolojî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-africa" = "Afrîka";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-asia" = "Asya";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-central-america" = "Amerîkaya Merkezî";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-europe" = "Ewropa";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-north-america" = "Amerîkaya Bakur";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-oceania" = "Okyanûsya";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-south-america" = "Amerîkaya Başûr";

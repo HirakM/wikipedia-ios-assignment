@@ -1,0 +1,149 @@
+// Messages for Hunsrik (Hunsrik)
+// Exported from translatewiki.net
+// Author: Envlh
+// Author: Paul Beppler
+
+// Fuzzy
+"account-creation-captcha-obtaining" = "En neies CAPTCHA abrufe.";
+"account-creation-logging-in" = "Oonmelde …";
+"account-creation-passwords-mismatched" = "Die Passwortfelder stimme net üwer enanner.";
+"account-creation-saving" = "Am speichre …";
+// Fuzzy
+"article-languages-filter-placeholder" = "Filter";
+"article-languages-label" = "Sproch auswähle";
+"edit-summary-choice-fixed-grammar" = "Grammatik korrigiert";
+"edit-summary-choice-fixed-typos" = "Tippfehler korrigiert (digitalisierung)";
+// Fuzzy
+"edit-summary-choice-linked-words" = "Verlinkte Wörter";
+// Fuzzy
+"main-menu-account-login" = "Oonmelde";
+"main-menu-account-logout" = "Abmelde";
+// Fuzzy
+"main-menu-account-title-logged-in" = "Oongemeldet wie: $1";
+"navbar-title-mode-edit-wikitext-preview" = "Voarschau";
+"search-field-placeholder-text" = "Wikipedia doorrichsuche";
+"wikitext-preview-changes" = "Ruf den Voarschau von deiner Ännrungen ab …";
+"wikitext-upload-captcha-error" = "Captcha-Üwerprüfungsfehler.";
+"wikitext-upload-captcha-needed" = "Captcha-Üwerprüfung nötich.";
+"wikitext-upload-result-unknown" = "Das Ergebnis von deine Wikitext-Upload (Uffloodung) konnt net ermittelt sin.";
+// Fuzzy
+"wikitext-upload-save" = "Speichere …";
+"wikitext-upload-save-anonymously-warning" = "Das bedeitet wenicher Dateschutz. Dein IP-Adress ist mit den Beoorbeitunge einsiehbar. Mit dem Speichre stimmst du der dauerhafte Veröffentlichung von deiner Beoorbeitunge unner der CC BY-SA 3.0 Lizenz zu.";
+
+
+/* Article topic label */
+"wikimedia-articletopics-topic-architecture" = "Architektur";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-art" = "Kunst";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-comics-and-anime" = "Comics und Anime";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-entertainment" = "Unterhaltung";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-fashion" = "Mode";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-literature" = "Literatur";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-music" = "Musik";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-performing-arts" = "Darstellende Kunst";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-sports" = "Sport";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-tv-and-film" = "Film und Fernsehen";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-video-games" = "Videospiele";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biography" = "Biografie (alle)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-women" = "Biografie (Frauen)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-business-and-economics" = "Unternehmen und Wirtschaft";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-education" = "Bildung";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-food-and-drink" = "Essen und Trinken";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-history" = "Geschichte";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-military-and-warfare" = "Krieg und Militär";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-philosophy-and-religion" = "Philosophie und Religion";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-politics-and-government" = "Staat und Politik";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-society" = "Gesellschaft";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-transportation" = "Verkehr";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biology" = "Biologie";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-chemistry" = "Chemie";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-computers-and-internet" = "Computer und Internet";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-earth-and-environment" = "Erde und Umwelt";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-engineering" = "Technik";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-general-science" = "Wissenschaft";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-mathematics" = "Mathematik";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-medicine-and-health" = "Medizin und Gesundheit";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-physics" = "Physik";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-technology" = "Technologie";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-africa" = "Afrika";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-asia" = "Asien";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-central-america" = "Zentralamerika";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-europe" = "Europa";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-north-america" = "Nordamerika";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-oceania" = "Ozeanien";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-south-america" = "Südamerika";

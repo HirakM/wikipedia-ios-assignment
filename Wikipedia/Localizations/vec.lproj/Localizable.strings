@@ -1,0 +1,178 @@
+// Messages for Venetian (vèneto)
+// Exported from translatewiki.net
+// Author: Candalua
+// Author: Cusolotto
+// Author: Fierodelveneto
+// Author: Macofe
+
+"about-contributors" = "Contribudori";
+"about-libraries" = "librarie doparae";
+"about-libraries-license" = "Licensa";
+"about-product-of" = "Un prodoto de la $1, co el juto de vołontari come ti!";
+"about-repositories" = "archivi";
+"about-title" = "Informasion";
+"about-translators" = "Tradutori";
+"about-translators-details" = "Tradoto dai volontari de $1";
+"about-wikimedia-foundation" = "Fondasion Wikimedia";
+"about-wikipedia" = "Wikipedia";
+"action-undo" = "Desfare";
+"add-articles-to-reading-list" = "Xonta {{PLURAL:$1|voce|voci}} al'elenco de letura";
+"app-store-short-description" = "Descarga l'app de Wikipedia par esplorar i posti visin a ti, sincronixar i articoli par vardarli offline e personalixar la to esperiensa de letura.";
+"article-languages-filter-placeholder" = "Cata łéngua";
+"article-languages-label" = "Sełesiona ła lengua";
+"article-languages-others" = "Altre łéngue";
+"article-save-error-not-enough-space" = "No te ghe mia spasio sul to telefono par salvar l'articolo";
+"edit-summary-choice-fixed-grammar" = "Sistemà la gramàtega";
+"edit-summary-choice-fixed-typos" = "Sistemà un becanoto";
+"edit-summary-choice-linked-words" = "Xontà dei link";
+"edit-summary-placeholder-text" = "Come xe che te ghè mejorà ła voxe?";
+"history-clear-delete-all" = "Sì, descançeła tuto";
+"languages-title" = "Canbia łéngua";
+"main-menu-about" = "Informasion so l'app";
+"main-menu-account-login" = "Lòghite";
+"main-menu-account-logout" = "Deslòghite";
+"main-menu-account-title-logged-in" = "Aceso efetuà cofà: $1";
+"main-menu-heading-legal" = "Privacy e condision";
+"main-menu-nearby" = "Cuà rente";
+"main-menu-privacy-policy" = "Polìtega su la riservadessa";
+"main-menu-rate-app" = "Cuałifega l'aplicasion";
+"main-menu-terms-of-use" = "Condision de doparasion";
+"main-menu-title" = "Piassè";
+"main-menu-zero-faq" = "FAQ de Wikipedia Zero";
+"move-articles-to-reading-list" = "Moi {{PLURAL:$1|voce|voci}} al'elenco de letura.";
+"navbar-title-mode-edit-wikitext-preview" = "Anteprima";
+// Fuzzy
+"nearby-distance-label-feet" = "$1 pié";
+"nearby-distance-label-km" = "$1 km";
+// Fuzzy
+"nearby-distance-label-meters" = "$1 m";
+"nearby-distance-label-miles" = "$1 miglia";
+"on-this-day-sub-title-for-date-from-language-wikipedia" = "$1 da Wikipèdia in $2";
+"reading-lists-conflicting-reading-list-name-updated" = "La to lista '$1' ła xé sta sta renomenà en '$2'";
+"reading-themes-controls-accessibility-syntax-highlighting-switch" = "Rexalta ła sintasi";
+"reading-themes-controls-syntax-highlighting" = "Rexalta ła sintasi";
+"search-field-placeholder-text" = "Serca su Wikipedia";
+"search-recent-clear-delete-all" = "Scancela tuto";
+// Fuzzy
+"share-article-name-on-wikipedia" = "\"$1\" so @Wikipèdia Vèneta:";
+"table-of-contents-heading" = "Contegnùi";
+"wikitext-upload-save" = "Publegasion...";
+"wikitext-upload-save-terms-name" = "Condision de dòpara";
+
+
+/* Article topic label */
+"wikimedia-articletopics-topic-architecture" = "Architettura";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-art" = "Arte";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-comics-and-anime" = "Fumetti e anime";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-entertainment" = "Divertimento";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-fashion" = "Moda";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-literature" = "Letteratura";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-music" = "Musica";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-performing-arts" = "Arti dello spettacolo";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-sports" = "Sport";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-tv-and-film" = "TV e film";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-video-games" = "Videogiochi";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biography" = "Biografie (tutte)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-women" = "Biografie (donne)";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-business-and-economics" = "Business ed economia";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-education" = "Istruzione";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-food-and-drink" = "Cibi e bevande";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-history" = "Storia";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-military-and-warfare" = "Militare e guerra";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-philosophy-and-religion" = "Filosofia e religione";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-politics-and-government" = "Politica e governo";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-society" = "Società";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-transportation" = "Trasporti";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-biology" = "Biologia";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-chemistry" = "Chimica";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-computers-and-internet" = "Computer ed internet";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-earth-and-environment" = "Terra e ambiente";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-engineering" = "Ingegneria";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-general-science" = "Scienza generale";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-mathematics" = "Matematica";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-medicine-and-health" = "Medicina e salute";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-physics" = "Fisica";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-technology" = "Tecnologia";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-africa" = "Africa";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-asia" = "Asia";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-central-america" = "America centrale";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-europe" = "Europa";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-north-america" = "Nord America";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-oceania" = "Oceania";
+
+/* Article topic label */
+"wikimedia-articletopics-topic-south-america" = "Sud America";
