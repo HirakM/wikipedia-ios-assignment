@@ -180,6 +180,7 @@ public final class WMFSettingsHostingController: WMFComponentHostingController<W
         }
     }
 
+    @MainActor
     deinit {
         NotificationCenter.default.removeObserver(self)
     }
