@@ -1,8 +1,14 @@
 # Wikipedia iOS — Places deep link
 
-Fork of [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) with support for opening the Places tab at coordinates from another app.
+Fork of [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) that opens the Places tab at coordinates provided by another app.
 
 Related app: https://github.com/HirakM/places-ios-assignment
+
+## Behavior
+
+- App launch selects the **Places** tab
+- `wikipedia://places?lat=&long=&name=` centers the map on those coordinates
+- Device location is not used to override a deep-linked position
 
 ## URL format
 
@@ -10,22 +16,22 @@ Related app: https://github.com/HirakM/places-ios-assignment
 wikipedia://places?lat=<latitude>&long=<longitude>&name=<optional>
 ```
 
+Also accepts `latitude` / `longitude` / `lon`.
+
 Examples:
 
 - `wikipedia://places?lat=52.3547498&long=4.8339215&name=Amsterdam`
 - `wikipedia://places?latitude=40.4380638&longitude=-3.7495758`
 
-`lat`/`latitude` and `long`/`longitude`/`lon` are accepted.
+## Code touchpoints
 
-## What changed
-
-- `NSUserActivity+WMFExtensions` — reads lat/long/name from the Places URL
-- `WMFAppViewController` — selects the Places tab and passes coordinates through
-- `PlacesViewController` — centers the map and does not jump back to the user location
-- Unit tests in `NSUserActivity+WMFExtensionsTest.m`
-- `docs/url_schemes.md` updated
-
-On launch the app opens on the Places tab.
+| Area | Role |
+|------|------|
+| `NSUserActivity+WMFExtensions` | Parses Places URL query into activity userInfo |
+| `WMFAppViewController` | Routes to Places and calls `showLocation` |
+| `PlacesViewController` | Centers map; skips user-location recenter when deep-linked |
+| `NSUserActivity+WMFExtensionsTest` | Covers coordinate query parsing |
+| `docs/url_schemes.md` | Documents the URL |
 
 ## Build
 
@@ -34,4 +40,4 @@ On launch the app opens on the Places tab.
 open Wikipedia.xcodeproj
 ```
 
-Use the Wikipedia scheme (Xcode 16+). Install this build on the same simulator as the Places app before testing deep links.
+Run the Wikipedia scheme, then exercise deep links from the Places app on the same simulator.
